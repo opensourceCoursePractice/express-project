@@ -8,7 +8,7 @@ var router = express.Router();
 /* For hw */
 
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'AAAAAAA NEW TITLE AAAAAAA' });
 });
 
 module.exports = router;
